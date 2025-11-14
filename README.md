@@ -1,10 +1,10 @@
 ### ✌️
 
-👾 | roblox script dev 
-🧩 | lua scripter | self-taught  
-🚫 | don't steal / sell my work
-🔐 | z8 encoder
-🗑 | Project:TRASH - script hub
+👾 | roblox script dev                                                             
+🧩 | lua scripter | self-taught                                    
+🚫 | don't steal / sell my work                                  
+🔐 | z8 encoder                                                    
+🗑 | Project:TRASH - script hub                                          
 
 
 
